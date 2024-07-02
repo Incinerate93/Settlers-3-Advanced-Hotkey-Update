@@ -1,1 +1,1 @@
-# Settlers-3-Advanced-Hotkey-Update
+Version=1.3, Switch=1
